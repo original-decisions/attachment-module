@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<objects>
+  <object id="ExtensionRepository" name="ExtensionRepository"
+      type="odec.Attachment.DAL.ExtensionRepository, odec.Attachment.DAL">
+  </object>
+  <object id="AttachmentTypeRepository" name="AttachmentTypeRepository"
+    type="odec.Attachment.DAL.AttachmentTypeRepository, odec.Attachment.DAL">
+  </object>
+  <object id="AttachmentRepository" name="AttachmentRepository"
+    type="odec.Attachment.DAL.AttachmentRepository, odec.Attachment.DAL">
+  </object>
+  
+</objects>
